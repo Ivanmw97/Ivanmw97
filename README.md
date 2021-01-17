@@ -1,4 +1,3 @@
-
 <h2> Hey there! I'm Ivan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -45,6 +44,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ivanmw97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ivan_mw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ivan_mw/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Ivanmw97-blue?style=flat-square&logo=instagram"></a>
 <a href="ivanmw.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivanmw.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
