@@ -11,6 +11,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin&logoColor)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
@@ -34,7 +35,6 @@
 <br/>
 
 <a href="https://github.com/Ivanmw97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivanmw97&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanmw97&theme=buefy&layout=compact" />
 </a>
 
