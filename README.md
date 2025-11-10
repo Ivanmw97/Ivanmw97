@@ -4,7 +4,7 @@
 🎯 Specialized in building **cross-platform mobile** and **modern web applications**, focused on **clean architecture**, **scalability**, and **user-centered design**.
 
 🔗 **Portfolio:** [ivanmendez.dev](https://ivanmendez.dev/en)  
-🧩 **Organization:** [KompKit](https://github.com/kompkit) — Open-source utilities for Kotlin Multiplatform developers.
+🧩 **Organization:** [KompKit](https://github.com/kompkit) — Lightweight open-source cross-platform utility kit for Android (Kotlin) and Web (TypeScript)
 
 ---
 
@@ -20,14 +20,15 @@
 ## 🌟 **Highlighted Projects**
 
 - [📦 KompKit](https://github.com/kompkit):  
-  A modular open-source toolkit for Kotlin Multiplatform developers.  
+  A lightweight cross-platform utility kit providing essential functions for Android (Kotlin) and Web (TypeScript) development. Built as a monorepo with identical APIs across platforms. 
   Currently in **Alpha** — focused on simplifying cross-platform development.
 
 - [📈 CryptoTracker](https://github.com/Ivanmw97/CryptoTracker):  
   A clean and intuitive Android app to track cryptocurrency trends in real time.
 
 - [💰 Financial Manager](https://github.com/Ivanmw97/financial-manager):  
-  A Kotlin Multiplatform project to manage expenses, visualize data, and sync securely with Supabase.
+  A modern web application to track your personal finances, monitor spending, and stay on top of your budget.
+  Built with Vue 3, TypeScript, and Vite for speed, simplicity, and scalability.
 
 - [🌐 Modulum Studio](https://modulumstudio.com):  
   My digital studio — offering full web & mobile development services with a focus on premium, minimalist design.
