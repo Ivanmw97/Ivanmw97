@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ivanmw97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivanmw97-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:ivan.mendez@modulumstudio.com"><img alt="Email" src="https://img.shields.io/badge/Email-iivan.mendez@modulumstudio.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:ivan.mendez@modulumstudio.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.mendez@modulumstudio.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://ivanmendez.dev/en"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ivanmendez.dev-blue?style=flat-square&logo=google-chrome"></a>
   <a href="https://github.com/kompkit"><img alt="Organization" src="https://img.shields.io/badge/KompKit-Open%20Source-green?style=flat-square&logo=kotlin"></a>
 </p>
