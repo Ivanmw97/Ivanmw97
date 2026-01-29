@@ -19,19 +19,23 @@
 
 ## 🌟 **Highlighted Projects**
 
-- [📦 KompKit](https://github.com/kompkit):  
-  A lightweight cross-platform utility kit providing essential functions for Android (Kotlin) and Web (TypeScript) development. Built as a monorepo with identical APIs across platforms. 
-  Currently in **Alpha** — focused on simplifying cross-platform development.
+- [🚀 Delyo](https://github.com/Ivanmw97/Delyo)  
+  A mobile-first product designed to deliver a **focused, clean and premium user experience**, built with a strong emphasis on **UX, performance, and scalable architecture**.  
+  Delyo represents my approach to product-driven development: from concept and design to implementation and iteration.
 
-- [📈 CryptoTracker](https://github.com/Ivanmw97/CryptoTracker):  
-  A clean and intuitive Android app to track cryptocurrency trends in real time.
+- [📦 KompKit](https://github.com/kompkit)  
+  A lightweight cross-platform utility kit providing essential functions for Android (Kotlin) and Web (TypeScript) development.  
+  Built as a monorepo with identical APIs across platforms. Currently in **Alpha**.
 
-- [💰 Financial Manager](https://github.com/Ivanmw97/financial-manager):  
-  A modern web application to track your personal finances, monitor spending, and stay on top of your budget.
-  Built with Vue 3, TypeScript, and Vite for speed, simplicity, and scalability.
+- [📈 CryptoTracker](https://github.com/Ivanmw97/CryptoTracker)  
+  A clean and intuitive Android app to track cryptocurrency trends in real time, built with **Kotlin** and **Jetpack Compose**.
 
-- [🌐 Modulum Studio](https://modulumstudio.com):  
-  My digital studio — offering full web & mobile development services with a focus on premium, minimalist design.
+- [💰 Financial Manager](https://github.com/Ivanmw97/financial-manager)  
+  A modern web application to track personal finances, monitor spending, and manage budgets.  
+  Built with **Vue 3**, **TypeScript**, and **Vite**.
+
+- [🌐 Modulum Studio](https://modulumstudio.com)  
+  My digital studio — offering full web & mobile development services with a focus on **premium**, **minimalist**, and **user-centric** design.
 
 ---
 
@@ -44,10 +48,18 @@
 ## 🌐 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivanmw97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivanmw97-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:ivan.mendez@modulumstudio.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.mendez@modulumstudio.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://ivanmendez.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ivanmendez.dev-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://github.com/kompkit"><img alt="Organization" src="https://img.shields.io/badge/KompKit-Open%20Source-green?style=flat-square&logo=kotlin"></a>
+  <a href="https://www.linkedin.com/in/ivanmw97/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivanmw97-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:ivan.mendez@modulumstudio.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ivan.mendez@modulumstudio.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://ivanmendez.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ivanmendez.dev-blue?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://github.com/kompkit">
+    <img alt="Organization" src="https://img.shields.io/badge/KompKit-Open%20Source-green?style=flat-square&logo=kotlin">
+  </a>
 </p>
 
 ---
