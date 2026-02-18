@@ -14,7 +14,7 @@
 
 ### About
 
-I specialize in building **cross-platform mobile** and **modern web applications** with a focus on clean architecture, scalability, and user-centered design. Currently leading development at **Modulum Studio** and maintaining **[KompKit](https://github.com/kompkit)** — a lightweight open-source utility kit for Android (Kotlin) and Web (TypeScript).
+I specialize in building **cross-platform mobile** and **modern web applications** with a focus on clean architecture, scalability, and user-centered design. Currently maintaining **[KompKit](https://github.com/kompkit)** — a lightweight open-source utility kit for Android (Kotlin), Web (TypeScript), Flutter (Dart).
 
 ---
 
@@ -67,7 +67,7 @@ I specialize in building **cross-platform mobile** and **modern web applications
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Delyo](https://github.com/Ivanmw97/Delyo)** | Mobile-first product with premium UX, performance, and scalable architecture | Flutter, Dart |
-| **[KompKit](https://github.com/kompkit)** | Cross-platform utility kit for Android & Web with identical APIs | Kotlin, TypeScript |
+| **[KompKit](https://github.com/kompkit)** | Cross-platform utility kit for Android & Web with identical APIs | Kotlin, TypeScript, Dart |
 | **[CryptoTracker](https://github.com/Ivanmw97/CryptoTracker)** | Real-time cryptocurrency tracking app | Kotlin, Compose |
 | **[Financial Manager](https://github.com/Ivanmw97/financial-manager)** | Personal finance tracking web application | Vue 3, TypeScript |
 | **[Modulum Studio](https://modulumstudio.com)** | Digital studio for premium web & mobile development | — |
